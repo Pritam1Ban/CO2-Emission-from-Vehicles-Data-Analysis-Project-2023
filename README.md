@@ -10,14 +10,14 @@ Following are the observations obtained:
                  ii. Bottom 5 class of vehicles: Mid_size, Compact, Full_size, Pickup_Truck_Standard, and MiniCompact,
                  iii. Top 10 Transmission: M6, AS8, AS7, M5, AV, AV6, M7, AV7, AV8, AV9,
                  IV. Bottom 10 Transmission: A6, A8, A4, AM7, A5, A7, A9, AM6, AM5, AS4.
-   2. Visual 2: In this Visual, different vehicle make and parts are compared using CO2 emission rate,
+2. Visual 2: In this Visual, different vehicle make and parts are compared using CO2 emission rate,
                   i. Top 5 Class of Vehicles: SUV_Small, SUV_Standard, Pickup_Truck_Small, Two_Seater, Sub_Compact,
                   ii. Bottom 5 Class of Vehicles: Mid_Size, Compact, Full_Size, Pickup_Truck_Standard, Mini_Compact,
                   iii. Top 5 Transmission: M6, AS8, AS7M5, and AV,
                   IV. Bottom 5 Transmission: A6, A8, A4, AM7, A5,
                   V. Top 5 Engine Size: 2.00, 3.60, 3.50, 3.00, 5.30,
                   vi. Bottom 5 Engine Size: 3.30, 6.80, 8.40, 1.20, 1.00. 
-   3. Visual 3: A. Avg Fuel Consumption,
+3. Visual 3: A. Avg Fuel Consumption,
                     i. in City: 13,
                     ii. in Highway: 9,
                     iii. as Combination: 12,
